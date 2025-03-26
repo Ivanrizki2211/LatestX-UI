@@ -53,7 +53,7 @@ export const siteConfig = {
 
   // Social links
   links: {
-    github: "https://github.com/latesturl",
+    WhatsApp channel: "https://whatsapp.com/channel/0029Vb96GvN0G0XkMqyOES2w",
   },
 
   // Status codes
